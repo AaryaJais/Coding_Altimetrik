@@ -1,3 +1,4 @@
+package com.practice;
 import org.junit.Test;
 
 public class MultiplicationTableTest {
